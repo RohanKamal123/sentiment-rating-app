@@ -1,0 +1,21 @@
+sentence,label,score,scaled_score
+"I live in Germany , and support Albert 
+",POSITIVE,1.0,10.0
+"I live in a slum
+",NEGATIVE,1.0,0.0
+"I live in a slum
+",NEGATIVE,1.0,0.0
+"I can make aI SOFTWARES
+",NEGATIVE,0.995,0.05
+"I can make aI SOFTWARES THAT HELP PEOPLE
+
+",POSITIVE,0.984,9.84
+"I can make aI SOFTWARES THAT DONT HELP PEOPLE
+
+",NEGATIVE,1.0,0.0
+"I can make aI SOFTWARES THAT NOT ONLY HELP PEOPLE BUT ALSO ANIMALS
+
+",NEGATIVE,0.989,0.11
+"I can make aI SOFTWARES THAT NOT ONLY HELP PEOPLE BUT ALSO ANIMALS
+
+",NEGATIVE,0.989,0.11
